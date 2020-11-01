@@ -1,0 +1,9 @@
+export const baseURL = 'http://59.110.226.77:3000/api'
+export const authRUL = '/api/auth'
+export const loginURL = '/api/user/login'
+export const registerURL = '/api/user/register'
+export const shopAddURL = `${baseURL}/shopcar/add`
+export const shopListURL = `${baseURL}/shopcar/getCar`
+export const delShopListURL = `${baseURL}/shopcar/del`
+export const updateShopListURL = `${baseURL}/shopcar/update`
+export const g6URL = '/api/g6'
